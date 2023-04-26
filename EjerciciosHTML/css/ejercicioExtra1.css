@@ -1,0 +1,12 @@
+ul{
+    list-style: square; /* Cambio las vinetas a cuadrados */
+}
+
+.mis-links {
+    list-style: none; /* quitar viñetas */
+  }
+  
+  .mis-links li a {
+    text-decoration: none; /* quitar subrayado */
+    color: green; /* cambiar color a verde */
+  }
