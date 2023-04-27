@@ -1,0 +1,36 @@
+.fondo{
+    background-image: url(../img/rata.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.desaparecer{
+    display: none;
+}
+
+.carta{
+    background-color: antiquewhite;
+}
+
+
+
+@media screen and (max-width: 992px) {
+    .uwu{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    .uwu2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+    }
+}
